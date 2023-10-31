@@ -1,5 +1,5 @@
-module github.com/bjanders/fpanels
+module github.com/mtp/fpanels
 
-go 1.14
+go 1.21
 
 require github.com/google/gousb v1.1.2
